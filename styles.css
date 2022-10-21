@@ -1,8 +1,9 @@
 .pageBackground{
     flex-direction: row;
-    background-image: url(./images/amazon\ background\ pic.jpg);
+    background-image: url(./images/amazon\ 2nd\ xmas.webp);
     background-position-x: center;
     background-size: cover;
+    
 }
 
 .topWithButton{
