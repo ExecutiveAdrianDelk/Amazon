@@ -30,6 +30,10 @@
     padding-top: 10px;
 }
 
+.bt1{
+  height: 30px;
+}
+
 .amazon{
     height: 70px;
     border-radius: -10;
@@ -48,18 +52,22 @@
 
 .selectYourAdress{
     display: flex;
-    height: 50px;
-    width: 90px;
+    height: 40px;
+    width: 120px;
     border-radius: 5px;
     background-color: #1d3554;
     color: white;
-    margin-left: 45%;
+    margin-left: 55%;
     margin-top: 20px;
 }
 
+.hello{
+  font-size: 12px;
+
+}
 .searchAmazon{
     height: 40px;
-    width: 590px;
+    width: 620px;
     margin-top: 1%;
     border-radius: 6px;
     margin-top: 18px;
@@ -67,8 +75,8 @@
 }
 
 .accountListing{
-    height: 50px;
-    width: 90px;
+    height: 40px;
+    width: 120px;
     border-radius: 5px;
     background-color: #1d3554;
     color: white;
@@ -83,7 +91,7 @@
 }
 
 #wrapper {
-  perspective: 2500;/**/
+  perspective: 2500;
 	-webkit-perspective: 2500;
 	width: 10px;
 	margin: 20px auto 0 auto;
