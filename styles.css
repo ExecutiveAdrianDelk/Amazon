@@ -5,7 +5,9 @@
     background-size: cover;
     width: 95%;
     
+    
 }
+
 
 .topWithButton{
     display: flex;
@@ -152,6 +154,7 @@
   -webkit-box-reflect: below 10px linear-gradient(transparent, transparent, #0007);
 }
 
+
 #drag-container p {
   font-family: Serif;
   position: absolute;
@@ -172,7 +175,6 @@
           transform: translate(-50%,-50%) rotateX(90deg);
   background: -webkit-radial-gradient(center center, farthest-side , #9993, transparent);
 }
-
 
 @-webkit-keyframes spin {
   from{
